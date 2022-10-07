@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Merulha
 - 👀 I’m interested Java and Python
 - 🌱 I’m currently try learning...
+- ♔  I love play chess.
 
 <!---
 Merulha/Merulha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
